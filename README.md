@@ -14,10 +14,12 @@
 			<p><u>School:</u></strong> West Visayas State University</p>
 		</p>
 </p>
-<br>
-<br>
-<center><h2 id="background"> Highschool background </h2></center>
 
+<br>
+<br>
+<br>
+
+<center><h2 id="background"> Highschool background </h2></center>
 
 <p>I graduated from Cabatuan National Comprehensive Highschool with specialization on Eletrical Installation and Maintenance</p>
 
