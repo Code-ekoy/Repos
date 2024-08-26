@@ -2,7 +2,7 @@
 
 <h2 id="welcome"> Welcome to my Profile page </h2>
 
-<img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="200" align="left"></img>
+<img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="300" align="left"></img>
 
 <p>
 	<p><strong>My Name is:</strong> Eric S. Elevencione</p>
