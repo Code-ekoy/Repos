@@ -1,9 +1,27 @@
 <center><h2>My Profile</h2></center>
 
-<h4> | <a href="#introduction"> Introduction </a> | </h4> 
+<h4 id="welcome"> Welcome to my Profile page </h4>
 
-<center><h1 id="introduction">Hi my Name is Eric Elevencione </h1></center>
+<img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="200"></img>
 
-<img src="https://github.com/EricElevencione/Repos/blob/main/454964707_1480678445899716_6107434457707516101_n.jpg?raw=true" width="400" height="400"></img>
+<p>
+	<p><strong>My Name is:</strong> Eric S. Elevencione</p>
+	<p><strong>From:</strong></h4>Brgy. Maraguit, Cabatuan, Ilo-ilo, Philippines</p>
+	<p><strong>My Educational Background:</strong>
+		<p>
+			<p><u>Undergraduate:</u></strong> Bachelor of Science in Information System</p>
+			<p><u>Graduated:</u></strong> Cabatuan National Comprehensive Highschool</p>
+			<p><u>School:</u></strong> West Visayas State University</p>
+		</p>
+</p>
 
-https://code-ekoy.github.io/Repos/
+<h4 id="background"> Highschool background </h4>
+
+<p>I graduated from Cabatuan National Comprehensive Highschool with specialization on Eletrical Installation and Maintenance</p>
+
+<img src="https://github.com/EricElevencione/Repos/blob/main/455476959_499959875991757_431548522691254868_n.jpg?raw=true" width="200" height="200"></img>
+<img src="https://github.com/EricElevencione/Repos/blob/main/454920051_408084788547798_2156049834664412599_n.jpg?raw=true" width="200" height="200"></img>
+<img src="https://github.com/EricElevencione/Repos/blob/main/455953093_3663212527264630_7043490678541742069_n.jpg?raw=true" width="200" height="200"></img>
+
+<h4 id="Github-repository"> This is my Github Repository </h4>
+[https://code-ekoy.github.io/Repos/](https://github.com/EricElevencione/Repos.git)
