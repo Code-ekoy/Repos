@@ -4,6 +4,6 @@
 
 <center><h1 id="introduction">Hi my Name is Eric Elevencione </h1></center>
 
-![454964707_1480678445899716_6107434457707516101_n](https://github.com/user-attachments/assets/0af2fb28-b855-4766-9cab-6b2c49be15cb)
+<img src="https://github.com/EricElevencione/Repos/blob/main/454964707_1480678445899716_6107434457707516101_n.jpg?raw=true" width="200" height="200"></img>
 
 https://code-ekoy.github.io/Repos/
