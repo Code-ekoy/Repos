@@ -15,7 +15,7 @@
 		</p>
 </p>
 
-
+<br>
 <center><h2 id="background"> Highschool background </h2></center>
 
 
