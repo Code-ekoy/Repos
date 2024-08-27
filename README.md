@@ -1,6 +1,6 @@
 <center><h1>My Profile</h1></center>
 
-![321c26929da73c15071c70374db62d89](https://github.com/user-attachments/assets/2dea171d-6b6a-420d-a94d-0a5375099d31)
+![039974c419fa770582b6598f7120a6f1](https://github.com/user-attachments/assets/71033f98-49cd-4b53-af65-c35f31feed02)
 
 <h2 id="welcome"> Welcome to my Profile page </h2>
 
