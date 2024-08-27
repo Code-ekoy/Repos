@@ -1,5 +1,7 @@
 <center><h1>My Profile</h1></center>
 
+![1_1](https://github.com/user-attachments/assets/1731c2bd-14b4-4ee2-a3e9-6c6b6632254b)
+
 <h2 id="welcome"> Welcome to my Profile page </h2>
 
 <img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="300" align="left"></img>
