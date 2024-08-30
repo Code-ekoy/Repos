@@ -1,8 +1,10 @@
 <center><h1>My Profile</h1></center>
 
+![039974c419fa770582b6598f7120a6f1](https://github.com/user-attachments/assets/71033f98-49cd-4b53-af65-c35f31feed02)
+
 <h2 id="welcome"> Welcome to my Profile page </h2>
 
-<img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="200" align="left"></img>
+<img src="https://github.com/EricElevencione/Repos/blob/main/455025417_8500152933330798_959488846371747804_n.jpg?raw=true" width="200" height="300" align="left"></img>
 
 <p>
 	<p><strong>My Name is:</strong> Eric S. Elevencione</p>
@@ -14,6 +16,10 @@
 			<p><u>School:</u></strong> West Visayas State University</p>
 		</p>
 </p>
+
+<br>
+<br>
+<br>
 
 <center><h2 id="background"> Highschool background </h2></center>
 
